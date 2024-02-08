@@ -11,9 +11,13 @@
 Note: Solved Sudoku board with number of initial values = 5 (input by user) 
 
 Using Landscape Display:
+
+
 <img width="289" alt="Screenshot 2024-02-08 at 14 21 56" src="https://github.com/ghpham25/Sudoku-Solver/assets/99609320/4d4f03fc-3e57-467d-8129-952f18963219">
 
 Before and after values on terminal: 
+
+
 <img width="283" alt="Screenshot 2024-02-08 at 14 23 13" src="https://github.com/ghpham25/Sudoku-Solver/assets/99609320/e2cab0a3-8bab-4a01-90b4-380aca561478">
 
 ## Analysis: 
@@ -33,6 +37,7 @@ I implemented the algorithm by looping through the board and keeping track of th
 
 ## How to run
 cd into Sudoku-Solver folder
+
 command: 
 java Sudoku.java <number of wanted inital values>
 
