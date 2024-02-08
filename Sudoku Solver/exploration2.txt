@@ -1,7 +1,0 @@
-Average running time of a board with 0 initial values in 10 simulations: 0.9589083
-Average running time of a board with 5 initial values in 10 simulations: 2.2693373
-Average running time of a board with 10 initial values in 10 simulations: 3.7747666000000004
-Average running time of a board with 15 initial values in 10 simulations: 22.3908582
-Average running time of a board with 20 initial values in 10 simulations: 4.6520376
-Average running time of a board with 20 initial values in 10 simulations: 3.8994001
-Average running time of a board with 20 initial values in 10 simulations: 78.1685169
