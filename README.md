@@ -4,7 +4,7 @@
 - [x] **Implement Sudoku using stack-based application and depth-first-search algorithm**
 - [x] **Implemented tests to ensure the correctness of code**
 - [x] **Allow user to input custom intial values number**
-- [x] **Implement an advanced algorithm that that searches for the next best cell by judging its number of possible values, starting from the one with the lowest to highest number of possible values, increasing runtime by 300%** 
+- [x] **Implement an advanced algorithm that that searches for the next best cell by judging its number of possible values, starting from the one with the lowest to highest number of possible values, decreasing runtime by 300%** 
 - [x] **Automate sudoku solver using user input**
 
 ## Solved Sudoku Board 
